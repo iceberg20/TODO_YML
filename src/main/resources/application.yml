@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: democonfig
+server:
+    port: 9000
